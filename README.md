@@ -1,6 +1,6 @@
 # Hi, I'm Ati 👋
 
-I'm a Master's student in Artificial Intelligence at the University of Pennsylvania and a Computer Science graduate from the University of Michigan. I'm passionate about building systems that bridge AI and real-world applications—from internal tools and automation pipelines to full-stack AI-powered apps.
+I'm a Master's student in Artificial Intelligence at the University of Pennsylvania and a Computer Science graduate from the University of Michigan. I'm passionate about building systems that bridge AI and real-world applications, from internal tools and automation pipelines to full-stack AI-powered apps.
 
 ---
 
